@@ -41,6 +41,7 @@ class SideMenuDrawer extends StatelessWidget {
             _listTile("Buy Again"),
             _listTile("Lists"),
             _listTile("Customer Services"),
+            _listTile("Sign out"),
           ],
         ),
       ),
